@@ -19,17 +19,6 @@
     </author>
  
  
-<gap:plugin name="Camera" value="org.apache.cordova.core.CameraLauncher" />
-<gap:plugin name="Capture" value="org.apache.cordova.core.Capture" />
-<gap:plugin name="Contacts" value="org.apache.cordova.core.ContactManager" />
-<gap:plugin name="Geolocation" value="org.apache.cordova.core.GeoBroker" />
-<gap:plugin name="File" value="org.apache.cordova.core.FileUtils" />
-<gap:plugin name="FileTransfer" value="org.apache.cordova.core.FileTransfer" />
-<gap:plugin name="Media" value="org.apache.cordova.core.AudioHandler" />
-<gap:plugin name="NetworkStatus" value="org.apache.cordova.core.NetworkManager" />
-<gap:plugin name="Notification" value="org.apache.cordova.core.Notification" />
- 
-
-
+	<gap:plugin name="org.apache.cordova.camera" version="0.2.3" />
  
 </widget>
